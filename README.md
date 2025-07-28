@@ -2,15 +2,15 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-I am Deyu Li 😃. A senior student majoring in **Information and Communication Engineering**. 
+I am Deyu Li 😃. A postgraduate student majoring in **Information and Communication Engineering**. 
 
 I've been accepted for a master's program at **Northwestern Polytechnical University(NPU)**, where I plan to further my studies.
 
 ## 👯 Interests
 
 * 👨🏽‍💻 Large-scale models
-* 🌱 Industrial data analysis and processing
-* 🎿 Optimization of existing large model architecture
+* 🌱 Power electronics
+* 🎿 Foundation models application
 * 📝 Badminton, Swimming, Reading and Writing blogs
 * ......
 
