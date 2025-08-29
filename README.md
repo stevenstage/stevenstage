@@ -25,7 +25,7 @@ I've been accepted for a master's program at **Northwestern Polytechnical Univer
 ## Hello World!! 🤔
 
 - 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Deyu Blog](https://stevenstage.github.io/dyblog.github.io/)
+- 📫 Read my blogs: [Deyu Blog](https://stevenstage.github.io/)
 - 😃 Hope to connect with like-minded friends. Feel free to reach out!
 
 ![Deyu's github stats](https://github-readme-stats.vercel.app/api?username=stevenstage&hide=["issues"]&show_icons=true)
